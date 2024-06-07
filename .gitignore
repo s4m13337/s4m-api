@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__
+bin
+inclue
+lib
+models
+static
+pyvenv.cfg
